@@ -4,5 +4,6 @@ It is basically divided into 3 parts
 1. Admin
 2. Teacher
 3. Student
+
 Dedicated Controllers have been made for the same and corrosponding Model,Repositories and services have been created for them.
 
